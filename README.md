@@ -38,7 +38,7 @@ Para reproduzir ou estender esta análise, siga estas etapas:
 Clone o repositório para o seu ambiente local.
 Instale as dependências necessárias listadas no arquivo requirements.txt.
 Execute o notebook Jupyter ou script Python fornecido neste repositório.
-Bibliotecas Utilizadas
+Bibliotecas Utilizadas/n
 Pandas
 Matplotlib
 Seaborn
