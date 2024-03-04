@@ -42,4 +42,5 @@ Bibliotecas Utilizadas,
 Pandas, 
 Matplotlib, 
 Seaborn, 
-Scipy
+Scipy, 
+Numpy
